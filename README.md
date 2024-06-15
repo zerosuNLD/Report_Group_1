@@ -1,5 +1,4 @@
-1.  Code của các hình ảnh/ gif trong bài báo cáo sẽ được lưu trong thư mục code figure
-2.  Trong báo cáo sẽ có hình ảnh .gif nên để có thể xem đầy đủ thì thầy bật file báo cáo bằng adobe acrobat với ạ. 
-3.  Để hiểu rõ của bài báo cáo, thì thầy hãy đọc kỹ mục introduction, các mục khác sẽ được triên khai giống hệt với trình tự được viết ra trong mục introduction ạ.
-
-Cảm ơn vì đã đọc ạ!  
+Phân công công việc:
+Nguyễn Lương Duy: Phần 2: Tìm 1 hàm cost function để đo độ đo hiệu năng , Phần 4: Chọn mô hình có dung lượng phù hợp để tránh underfitting và overfitting
+Nguyễn Hoàng Dương: Phần 3.2: Tìm nghiệm theta bằng các phương pháp tối ưu như GD,SGD,MiniBatch, Newtow Method 
+Hoàng Sĩ Vương: Phần 3.1: Tìm nghiệm chuẩn bằng cách cho gradient = 0
